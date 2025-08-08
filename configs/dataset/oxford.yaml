@@ -1,0 +1,6 @@
+_target_: samba_mixer.dataset.oxford_battery_dataset.OxfordBatteryDataModule
+
+mat_file_path: "C:/Users/Hp/Desktop/samba-mixer-main/datasets/Oxford_Battery_Degradation_Dataset_1.mat"
+batch_size: 32
+seq_len: 100
+num_workers: 4
